@@ -19,10 +19,10 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.7"
 django = "^3.0.7"
-channels = "^2.4.0"
+channels = "^3.0.3"
 django-model-utils = "^4.0.0"
 djangorestframework = "^3.11.0"
-django-snitch = "^1.7.1"
+django-snitch = "^2.0.1"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.5.3"
